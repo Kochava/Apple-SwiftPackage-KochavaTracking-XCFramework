@@ -1,0 +1,4755 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "KochavaNetworking",
+        "printedName": "KochavaNetworking",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Var",
+        "name": "shared",
+        "printedName": "shared",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Product",
+            "printedName": "KochavaNetworking.Product",
+            "usr": "c:@M@KochavaNetworking@objc(cs)KochavaNetworking_Product"
+          }
+        ],
+        "declKind": "Var",
+        "usr": "s:15KochavaTracking6shared0A10Networking7ProductCvp",
+        "mangledName": "$s15KochavaTracking6shared0A10Networking7ProductCvp",
+        "moduleName": "KochavaTracking",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "accessors": [
+          {
+            "kind": "Accessor",
+            "name": "Get",
+            "printedName": "Get()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Product",
+                "printedName": "KochavaNetworking.Product",
+                "usr": "c:@M@KochavaNetworking@objc(cs)KochavaNetworking_Product"
+              }
+            ],
+            "declKind": "Accessor",
+            "usr": "s:15KochavaTracking6shared0A10Networking7ProductCvg",
+            "mangledName": "$s15KochavaTracking6shared0A10Networking7ProductCvg",
+            "moduleName": "KochavaTracking",
+            "accessorKind": "get"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AppKit",
+        "printedName": "AppKit",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "KochavaNetworking",
+        "printedName": "KochavaNetworking",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "KochavaNetworking",
+        "printedName": "KochavaNetworking",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Tracking",
+        "printedName": "Tracking",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tracking",
+                "printedName": "KochavaTracking.Tracking",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cpy)shared",
+            "mangledName": "$s15KochavaTracking0B0C6sharedACvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tracking",
+                    "printedName": "KochavaTracking.Tracking",
+                    "usr": "c:@M@KochavaTracking@objc(cs)KVATracking"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)shared",
+                "mangledName": "$s15KochavaTracking0B0C6sharedACvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shared_optional",
+            "printedName": "shared_optional",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KochavaTracking.Tracking?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tracking",
+                    "printedName": "KochavaTracking.Tracking",
+                    "usr": "c:@M@KochavaTracking@objc(cs)KVATracking"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cpy)shared_optional",
+            "mangledName": "$s15KochavaTracking0B0C15shared_optionalACSgvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaTracking.Tracking?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tracking",
+                        "printedName": "KochavaTracking.Tracking",
+                        "usr": "c:@M@KochavaTracking@objc(cs)KVATracking"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)shared_optional",
+                "mangledName": "$s15KochavaTracking0B0C15shared_optionalACSgvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sharedInstance",
+            "printedName": "sharedInstance",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cpy)sharedInstance",
+            "mangledName": "$s15KochavaTracking0B0C14sharedInstanceyXlvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)sharedInstance",
+                "mangledName": "$s15KochavaTracking0B0C14sharedInstanceyXlvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(storageIdentifier:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tracking",
+                "printedName": "KochavaTracking.Tracking",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)initWithStorageIdentifier:",
+            "mangledName": "$s15KochavaTracking0B0C17storageIdentifierACSSSg_tcfc",
+            "moduleName": "KochavaTracking",
+            "objc_name": "initWithStorageIdentifier:",
+            "declAttributes": [
+              "Convenience",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "init_kind": "Convenience"
+          },
+          {
+            "kind": "Function",
+            "name": "from",
+            "printedName": "from(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Self?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DynamicSelf",
+                    "printedName": "Self"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15KochavaTracking0B0C4fromyACXDSgypSgFZ",
+            "mangledName": "$s15KochavaTracking0B0C4fromyACXDSgypSgFZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "from",
+            "printedName": "from(_:initializedObject:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Self?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DynamicSelf",
+                    "printedName": "Self"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15KochavaTracking0B0C4from_17initializedObjectACXDSgypSg_AGtFZ",
+            "mangledName": "$s15KochavaTracking0B0C4from_17initializedObjectACXDSgypSg_AGtFZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "DiscardableResult",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "to",
+            "printedName": "to(context:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AnyObject?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KochavaNetworking.Context?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Context",
+                    "printedName": "KochavaNetworking.Context",
+                    "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15KochavaTracking0B0C2to7contextyXlSg0A10Networking7ContextCSg_tF",
+            "mangledName": "$s15KochavaTracking0B0C2to7contextyXlSg0A10Networking7ContextCSg_tF",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(with:context:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KochavaNetworking.Context?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Context",
+                    "printedName": "KochavaNetworking.Context",
+                    "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)configureWith:context:",
+            "mangledName": "$s15KochavaTracking0B0C9configure4with7contextyypSg_0A10Networking7ContextCSgtF",
+            "moduleName": "KochavaTracking",
+            "objc_name": "configureWith:context:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(with:context:logMessagePrintBool:asyncBool:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "KochavaNetworking.Context?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Context",
+                    "printedName": "KochavaNetworking.Context",
+                    "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)configureWith:context:logMessagePrintBool:asyncBool:",
+            "mangledName": "$s15KochavaTracking0B0C9configure4with7context19logMessagePrintBool05asyncI0yypSg_0A10Networking7ContextCSgS2btF",
+            "moduleName": "KochavaTracking",
+            "objc_name": "configureWith:context:logMessagePrintBool:asyncBool:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)start",
+            "mangledName": "$s15KochavaTracking0B0C5startyyF",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(logMessagePrintBool:asyncBool:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)startWithLogMessagePrintBool:asyncBool:",
+            "mangledName": "$s15KochavaTracking0B0C5start19logMessagePrintBool05asyncG0ySb_SbtF",
+            "moduleName": "KochavaTracking",
+            "objc_name": "startWithLogMessagePrintBool:asyncBool:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)stop",
+            "mangledName": "$s15KochavaTracking0B0C4stopyyF",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop(logMessagePrintBool:asyncBool:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)stopWithLogMessagePrintBool:asyncBool:",
+            "mangledName": "$s15KochavaTracking0B0C4stop19logMessagePrintBool05asyncG0ySb_SbtF",
+            "moduleName": "KochavaTracking",
+            "objc_name": "stopWithLogMessagePrintBool:asyncBool:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "logger",
+            "printedName": "logger",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Logger",
+                "printedName": "os.Logger",
+                "usr": "s:2os6LoggerV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15KochavaTracking0B0C6logger2os6LoggerVvpZ",
+            "mangledName": "$s15KochavaTracking0B0C6logger2os6LoggerVvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "intro_Macosx": "11.0",
+            "intro_iOS": "14.0",
+            "intro_tvOS": "14.0",
+            "intro_watchOS": "7.0",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "Available",
+              "Available",
+              "Available",
+              "Available",
+              "Available",
+              "Available",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Logger",
+                    "printedName": "os.Logger",
+                    "usr": "s:2os6LoggerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking0B0C6logger2os6LoggerVvgZ",
+                "mangledName": "$s15KochavaTracking0B0C6logger2os6LoggerVvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "description",
+            "printedName": "description",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(py)description",
+            "mangledName": "$s15KochavaTracking0B0C11descriptionSSvp",
+            "moduleName": "KochavaTracking",
+            "overriding": true,
+            "objc_name": "description",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)description",
+                "mangledName": "$s15KochavaTracking0B0C11descriptionSSvg",
+                "moduleName": "KochavaTracking",
+                "overriding": true,
+                "objc_name": "description",
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "type_kochava",
+            "printedName": "type_kochava",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Kochava_Type",
+                "printedName": "KochavaNetworking.Kochava_Type",
+                "usr": "s:17KochavaNetworking0A5_TypeC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15KochavaTracking0B0C12type_kochava0A10Networking0A5_TypeCvpZ",
+            "mangledName": "$s15KochavaTracking0B0C12type_kochava0A10Networking0A5_TypeCvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kochava_Type",
+                    "printedName": "KochavaNetworking.Kochava_Type",
+                    "usr": "s:17KochavaNetworking0A5_TypeC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking0B0C12type_kochava0A10Networking0A5_TypeCvgZ",
+                "mangledName": "$s15KochavaTracking0B0C12type_kochava0A10Networking0A5_TypeCvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "execution",
+            "printedName": "execution",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Execution",
+                "printedName": "KochavaNetworking.Execution",
+                "usr": "s:17KochavaNetworking9ExecutionC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15KochavaTracking0B0C9execution0A10Networking9ExecutionCvp",
+            "mangledName": "$s15KochavaTracking0B0C9execution0A10Networking9ExecutionCvp",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Execution",
+                    "printedName": "KochavaNetworking.Execution",
+                    "usr": "s:17KochavaNetworking9ExecutionC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking0B0C9execution0A10Networking9ExecutionCvg",
+                "mangledName": "$s15KochavaTracking0B0C9execution0A10Networking9ExecutionCvg",
+                "moduleName": "KochavaTracking",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "invalidate",
+            "printedName": "invalidate()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)invalidate",
+            "mangledName": "$s15KochavaTracking0B0C10invalidateyyF",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "invalidate",
+            "printedName": "invalidate(logMessagePrintBool:asyncBool:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)invalidateWithLogMessagePrintBool:asyncBool:",
+            "mangledName": "$s15KochavaTracking0B0C10invalidate19logMessagePrintBool05asyncG0ySb_SbtF",
+            "moduleName": "KochavaTracking",
+            "objc_name": "invalidateWithLogMessagePrintBool:asyncBool:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "datapoints",
+            "printedName": "datapoints",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Datapoints",
+                "printedName": "KochavaTracking.Tracking.Datapoints",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15KochavaTracking0B0C10datapointsAC10DatapointsCvp",
+            "mangledName": "$s15KochavaTracking0B0C10datapointsAC10DatapointsCvp",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Datapoints",
+                    "printedName": "KochavaTracking.Tracking.Datapoints",
+                    "usr": "s:15KochavaTracking0B0C10DatapointsC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking0B0C10datapointsAC10DatapointsCvg",
+                "mangledName": "$s15KochavaTracking0B0C10datapointsAC10DatapointsCvg",
+                "moduleName": "KochavaTracking",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "general",
+            "printedName": "general",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "General",
+                "printedName": "KochavaTracking.Tracking.General",
+                "usr": "s:15KochavaTracking0B0C7GeneralC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(py)general",
+            "mangledName": "$s15KochavaTracking0B0C7generalAC7GeneralCvp",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "General",
+                    "printedName": "KochavaTracking.Tracking.General",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)general",
+                "mangledName": "$s15KochavaTracking0B0C7generalAC7GeneralCvg",
+                "moduleName": "KochavaTracking",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "networking",
+            "printedName": "networking",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Networking",
+                "printedName": "KochavaNetworking.Networking",
+                "usr": "c:@M@KochavaNetworking@objc(cs)KVANetworking"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(py)networking",
+            "mangledName": "$s15KochavaTracking0B0C10networking0A10Networking0D0Cvp",
+            "moduleName": "KochavaTracking",
+            "declAttributes": [
+              "Final",
+              "Lazy",
+              "SetterAccess",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Networking",
+                    "printedName": "KochavaNetworking.Networking",
+                    "usr": "c:@M@KochavaNetworking@objc(cs)KVANetworking"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)networking",
+                "mangledName": "$s15KochavaTracking0B0C10networking0A10Networking0D0Cvg",
+                "moduleName": "KochavaTracking",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sharedNetworkingLinkAutomaticallyBool",
+            "printedName": "sharedNetworkingLinkAutomaticallyBool",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cpy)sharedNetworkingLinkAutomaticallyBool",
+            "mangledName": "$s15KochavaTracking0B0C37sharedNetworkingLinkAutomaticallyBoolSbvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)sharedNetworkingLinkAutomaticallyBool",
+                "mangledName": "$s15KochavaTracking0B0C37sharedNetworkingLinkAutomaticallyBoolSbvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)setSharedNetworkingLinkAutomaticallyBool:",
+                "mangledName": "$s15KochavaTracking0B0C37sharedNetworkingLinkAutomaticallyBoolSbvsZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking0B0C37sharedNetworkingLinkAutomaticallyBoolSbvMZ",
+                "mangledName": "$s15KochavaTracking0B0C37sharedNetworkingLinkAutomaticallyBoolSbvMZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sharedStorageIdentifier",
+            "printedName": "sharedStorageIdentifier",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cpy)sharedStorageIdentifier",
+            "mangledName": "$s15KochavaTracking0B0C23sharedStorageIdentifierSSSgvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)sharedStorageIdentifier",
+                "mangledName": "$s15KochavaTracking0B0C23sharedStorageIdentifierSSSgvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(cm)setSharedStorageIdentifier:",
+                "mangledName": "$s15KochavaTracking0B0C23sharedStorageIdentifierSSSgvsZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking0B0C23sharedStorageIdentifierSSSgvMZ",
+                "mangledName": "$s15KochavaTracking0B0C23sharedStorageIdentifierSSSgvMZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tracking",
+                "printedName": "KochavaTracking.Tracking",
+                "usr": "c:@M@KochavaTracking@objc(cs)KVATracking"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KochavaTracking@objc(cs)KVATracking(im)init",
+            "mangledName": "$s15KochavaTracking0B0CACycfc",
+            "moduleName": "KochavaTracking",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "Datapoints",
+            "printedName": "Datapoints",
+            "children": [
+              {
+                "kind": "Function",
+                "name": "from",
+                "printedName": "from(_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Self?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DynamicSelf",
+                        "printedName": "Self"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC4fromyAEXDSgypSgFZ",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC4fromyAEXDSgypSgFZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "from",
+                "printedName": "from(_:initializedObject:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Self?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DynamicSelf",
+                        "printedName": "Self"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC4from_17initializedObjectAEXDSgypSg_AItFZ",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC4from_17initializedObjectAEXDSgypSg_AItFZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "DiscardableResult"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "to",
+                "printedName": "to(context:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AnyObject?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaNetworking.Context?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Context",
+                        "printedName": "KochavaNetworking.Context",
+                        "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC2to7contextyXlSg0A10Networking7ContextCSg_tF",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC2to7contextyXlSg0A10Networking7ContextCSg_tF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "configure",
+                "printedName": "configure(with:context:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaNetworking.Context?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Context",
+                        "printedName": "KochavaNetworking.Context",
+                        "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC9configure4with7contextyypSg_0A10Networking7ContextCSgtF",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC9configure4with7contextyypSg_0A10Networking7ContextCSgtF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "logger",
+                "printedName": "logger",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Logger",
+                    "printedName": "os.Logger",
+                    "usr": "s:2os6LoggerV"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC6logger2os6LoggerVvpZ",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC6logger2os6LoggerVvpZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Logger",
+                        "printedName": "os.Logger",
+                        "usr": "s:2os6LoggerV"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C10DatapointsC6logger2os6LoggerVvgZ",
+                    "mangledName": "$s15KochavaTracking0B0C10DatapointsC6logger2os6LoggerVvgZ",
+                    "moduleName": "KochavaTracking",
+                    "static": true,
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "key",
+                "printedName": "key(context:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.AnyHashable?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaNetworking.Context?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Context",
+                        "printedName": "KochavaNetworking.Context",
+                        "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC3key7contexts11AnyHashableVSg0A10Networking7ContextCSg_tF",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC3key7contexts11AnyHashableVSg0A10Networking7ContextCSg_tF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "type_kochava",
+                "printedName": "type_kochava",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kochava_Type",
+                    "printedName": "KochavaNetworking.Kochava_Type",
+                    "usr": "s:17KochavaNetworking0A5_TypeC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC12type_kochava0A10Networking0A5_TypeCvpZ",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC12type_kochava0A10Networking0A5_TypeCvpZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "HasInitialValue",
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Kochava_Type",
+                        "printedName": "KochavaNetworking.Kochava_Type",
+                        "usr": "s:17KochavaNetworking0A5_TypeC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C10DatapointsC12type_kochava0A10Networking0A5_TypeCvgZ",
+                    "mangledName": "$s15KochavaTracking0B0C10DatapointsC12type_kochava0A10Networking0A5_TypeCvgZ",
+                    "moduleName": "KochavaTracking",
+                    "static": true,
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "execution",
+                "printedName": "execution",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Execution",
+                    "printedName": "KochavaNetworking.Execution",
+                    "usr": "s:17KochavaNetworking9ExecutionC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC9execution0A10Networking9ExecutionCvp",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC9execution0A10Networking9ExecutionCvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "Lazy",
+                  "SetterAccess",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Execution",
+                        "printedName": "KochavaNetworking.Execution",
+                        "usr": "s:17KochavaNetworking9ExecutionC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C10DatapointsC9execution0A10Networking9ExecutionCvg",
+                    "mangledName": "$s15KochavaTracking0B0C10DatapointsC9execution0A10Networking9ExecutionCvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "invalidate",
+                "printedName": "invalidate()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC10invalidateyyF",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC10invalidateyyF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "deviceLimitAdTrackingBoolAdapter",
+                "printedName": "deviceLimitAdTrackingBoolAdapter",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Adapter",
+                    "printedName": "KochavaNetworking.Adapter",
+                    "usr": "s:17KochavaNetworking7AdapterC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC013deviceLimitAdB11BoolAdapter0A10Networking0H0Cvp",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC013deviceLimitAdB11BoolAdapter0A10Networking0H0Cvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "Lazy",
+                  "SetterAccess",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Adapter",
+                        "printedName": "KochavaNetworking.Adapter",
+                        "usr": "s:17KochavaNetworking7AdapterC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C10DatapointsC013deviceLimitAdB11BoolAdapter0A10Networking0H0Cvg",
+                    "mangledName": "$s15KochavaTracking0B0C10DatapointsC013deviceLimitAdB11BoolAdapter0A10Networking0H0Cvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "idfaString",
+                "printedName": "idfaString()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC10idfaStringSSSgyF",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC10idfaStringSSSgyF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "idfaStringAdapter",
+                "printedName": "idfaStringAdapter",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Adapter",
+                    "printedName": "KochavaNetworking.Adapter",
+                    "usr": "s:17KochavaNetworking7AdapterC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C10DatapointsC17idfaStringAdapter0A10Networking0F0Cvp",
+                "mangledName": "$s15KochavaTracking0B0C10DatapointsC17idfaStringAdapter0A10Networking0F0Cvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "Lazy",
+                  "SetterAccess",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Adapter",
+                        "printedName": "KochavaNetworking.Adapter",
+                        "usr": "s:17KochavaNetworking7AdapterC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C10DatapointsC17idfaStringAdapter0A10Networking0F0Cvg",
+                    "mangledName": "$s15KochavaTracking0B0C10DatapointsC17idfaStringAdapter0A10Networking0F0Cvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Class",
+            "usr": "s:15KochavaTracking0B0C10DatapointsC",
+            "mangledName": "$s15KochavaTracking0B0C10DatapointsC",
+            "moduleName": "KochavaTracking",
+            "objc_name": "KVATracking_Datapoints",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "superclassUsr": "c:objc(cs)NSObject",
+            "hasMissingDesignatedInitializers": true,
+            "inheritsConvenienceInitializers": true,
+            "superclassNames": [
+              "ObjectiveC.NSObject"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "ConfigurableWith",
+                "printedName": "ConfigurableWith",
+                "usr": "s:17KochavaNetworking16ConfigurableWithP",
+                "mangledName": "$s17KochavaNetworking16ConfigurableWithP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "DecodableFrom",
+                "printedName": "DecodableFrom",
+                "usr": "s:17KochavaNetworking13DecodableFromP",
+                "mangledName": "$s17KochavaNetworking13DecodableFromP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "DecodableFromWithInitializedObject",
+                "printedName": "DecodableFromWithInitializedObject",
+                "usr": "s:17KochavaNetworking34DecodableFromWithInitializedObjectP",
+                "mangledName": "$s17KochavaNetworking34DecodableFromWithInitializedObjectP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "EncodableTo",
+                "printedName": "EncodableTo",
+                "usr": "s:17KochavaNetworking11EncodableToP",
+                "mangledName": "$s17KochavaNetworking11EncodableToP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Executor",
+                "printedName": "Executor",
+                "usr": "s:17KochavaNetworking8ExecutorP",
+                "mangledName": "$s17KochavaNetworking8ExecutorP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Invalidatable",
+                "printedName": "Invalidatable",
+                "usr": "s:17KochavaNetworking13InvalidatableP",
+                "mangledName": "$s17KochavaNetworking13InvalidatableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Keyable",
+                "printedName": "Keyable",
+                "usr": "s:17KochavaNetworking7KeyableP",
+                "mangledName": "$s17KochavaNetworking7KeyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Logger_Provider",
+                "printedName": "Logger_Provider",
+                "usr": "s:17KochavaNetworking15Logger_ProviderP",
+                "mangledName": "$s17KochavaNetworking15Logger_ProviderP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CVarArg",
+                "printedName": "CVarArg",
+                "usr": "s:s7CVarArgP",
+                "mangledName": "$ss7CVarArgP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObservingPublishing",
+                "printedName": "_KeyValueCodingAndObservingPublishing",
+                "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+                "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObserving",
+                "printedName": "_KeyValueCodingAndObserving",
+                "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+                "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomStringConvertible",
+                "printedName": "CustomStringConvertible",
+                "usr": "s:s23CustomStringConvertibleP",
+                "mangledName": "$ss23CustomStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomDebugStringConvertible",
+                "printedName": "CustomDebugStringConvertible",
+                "usr": "s:s28CustomDebugStringConvertibleP",
+                "mangledName": "$ss28CustomDebugStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Typed",
+                "printedName": "Typed",
+                "usr": "s:17KochavaNetworking5TypedP",
+                "mangledName": "$s17KochavaNetworking5TypedP"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "General",
+            "printedName": "General",
+            "children": [
+              {
+                "kind": "Function",
+                "name": "from",
+                "printedName": "from(_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Self?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DynamicSelf",
+                        "printedName": "Self"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC4fromyAEXDSgypSgFZ",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC4fromyAEXDSgypSgFZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "from",
+                "printedName": "from(_:initializedObject:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Self?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DynamicSelf",
+                        "printedName": "Self"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC4from_17initializedObjectAEXDSgypSg_AItFZ",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC4from_17initializedObjectAEXDSgypSg_AItFZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "DiscardableResult"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "to",
+                "printedName": "to(context:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "AnyObject?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaNetworking.Context?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Context",
+                        "printedName": "KochavaNetworking.Context",
+                        "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC2to7contextyXlSg0A10Networking7ContextCSg_tF",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC2to7contextyXlSg0A10Networking7ContextCSg_tF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "configure",
+                "printedName": "configure(with:context:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaNetworking.Context?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Context",
+                        "printedName": "KochavaNetworking.Context",
+                        "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC9configure4with7contextyypSg_0A10Networking7ContextCSgtF",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC9configure4with7contextyypSg_0A10Networking7ContextCSgtF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "start",
+                "printedName": "start()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC5startyyF",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC5startyyF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "logger",
+                "printedName": "logger",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Logger",
+                    "printedName": "os.Logger",
+                    "usr": "s:2os6LoggerV"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C7GeneralC6logger2os6LoggerVvpZ",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC6logger2os6LoggerVvpZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Logger",
+                        "printedName": "os.Logger",
+                        "usr": "s:2os6LoggerV"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC6logger2os6LoggerVvgZ",
+                    "mangledName": "$s15KochavaTracking0B0C7GeneralC6logger2os6LoggerVvgZ",
+                    "moduleName": "KochavaTracking",
+                    "static": true,
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "key",
+                "printedName": "key(context:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.AnyHashable?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnyHashable",
+                        "printedName": "Swift.AnyHashable",
+                        "usr": "s:s11AnyHashableV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "KochavaNetworking.Context?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Context",
+                        "printedName": "KochavaNetworking.Context",
+                        "usr": "c:@M@KochavaNetworking@objc(cs)KVAContext"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC3key7contexts11AnyHashableVSg0A10Networking7ContextCSg_tF",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC3key7contexts11AnyHashableVSg0A10Networking7ContextCSg_tF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "type_kochava",
+                "printedName": "type_kochava",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Kochava_Type",
+                    "printedName": "KochavaNetworking.Kochava_Type",
+                    "usr": "s:17KochavaNetworking0A5_TypeC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C7GeneralC12type_kochava0A10Networking0A5_TypeCvpZ",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC12type_kochava0A10Networking0A5_TypeCvpZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "HasInitialValue",
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Kochava_Type",
+                        "printedName": "KochavaNetworking.Kochava_Type",
+                        "usr": "s:17KochavaNetworking0A5_TypeC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC12type_kochava0A10Networking0A5_TypeCvgZ",
+                    "mangledName": "$s15KochavaTracking0B0C7GeneralC12type_kochava0A10Networking0A5_TypeCvgZ",
+                    "moduleName": "KochavaTracking",
+                    "static": true,
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "execution",
+                "printedName": "execution",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Execution",
+                    "printedName": "KochavaNetworking.Execution",
+                    "usr": "s:17KochavaNetworking9ExecutionC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C7GeneralC9execution0A10Networking9ExecutionCvp",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC9execution0A10Networking9ExecutionCvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "Lazy",
+                  "SetterAccess",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Execution",
+                        "printedName": "KochavaNetworking.Execution",
+                        "usr": "s:17KochavaNetworking9ExecutionC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC9execution0A10Networking9ExecutionCvg",
+                    "mangledName": "$s15KochavaTracking0B0C7GeneralC9execution0A10Networking9ExecutionCvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "invalidate",
+                "printedName": "invalidate()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:15KochavaTracking0B0C7GeneralC10invalidateyyF",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC10invalidateyyF",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Var",
+                "name": "controlDomainStringAdapter",
+                "printedName": "controlDomainStringAdapter",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Adapter",
+                    "printedName": "KochavaNetworking.Adapter",
+                    "usr": "s:17KochavaNetworking7AdapterC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C7GeneralC26controlDomainStringAdapter0A10Networking0G0Cvp",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC26controlDomainStringAdapter0A10Networking0G0Cvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "Lazy",
+                  "SetterAccess",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Adapter",
+                        "printedName": "KochavaNetworking.Adapter",
+                        "usr": "s:17KochavaNetworking7AdapterC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC26controlDomainStringAdapter0A10Networking0G0Cvg",
+                    "mangledName": "$s15KochavaTracking0B0C7GeneralC26controlDomainStringAdapter0A10Networking0G0Cvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "storageIdentifierAdapter",
+                "printedName": "storageIdentifierAdapter",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Adapter",
+                    "printedName": "KochavaNetworking.Adapter",
+                    "usr": "s:17KochavaNetworking7AdapterC"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C7GeneralC24storageIdentifierAdapter0A10Networking0F0Cvp",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC24storageIdentifierAdapter0A10Networking0F0Cvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "Final",
+                  "Lazy",
+                  "SetterAccess",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Adapter",
+                        "printedName": "KochavaNetworking.Adapter",
+                        "usr": "s:17KochavaNetworking7AdapterC"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC24storageIdentifierAdapter0A10Networking0F0Cvg",
+                    "mangledName": "$s15KochavaTracking0B0C7GeneralC24storageIdentifierAdapter0A10Networking0F0Cvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "instanceCreatedDate",
+                "printedName": "instanceCreatedDate",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Date",
+                    "printedName": "Foundation.Date",
+                    "usr": "s:10Foundation4DateV"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:15KochavaTracking0B0C7GeneralC19instanceCreatedDate10Foundation0F0Vvp",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralC19instanceCreatedDate10Foundation0F0Vvp",
+                "moduleName": "KochavaTracking",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "Final",
+                  "HasStorage",
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC19instanceCreatedDate10Foundation0F0Vvg",
+                    "mangledName": "$s15KochavaTracking0B0C7GeneralC19instanceCreatedDate10Foundation0F0Vvg",
+                    "moduleName": "KochavaTracking",
+                    "implicit": true,
+                    "declAttributes": [
+                      "Final"
+                    ],
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "General",
+                    "printedName": "KochavaTracking.Tracking.General",
+                    "usr": "s:15KochavaTracking0B0C7GeneralC"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:15KochavaTracking0B0C7GeneralCAEycfc",
+                "mangledName": "$s15KochavaTracking0B0C7GeneralCAEycfc",
+                "moduleName": "KochavaTracking",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "init",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC",
+                  "Override"
+                ],
+                "init_kind": "Designated"
+              }
+            ],
+            "declKind": "Class",
+            "usr": "s:15KochavaTracking0B0C7GeneralC",
+            "mangledName": "$s15KochavaTracking0B0C7GeneralC",
+            "moduleName": "KochavaTracking",
+            "objc_name": "KVATracking_General",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "superclassUsr": "c:objc(cs)NSObject",
+            "hasMissingDesignatedInitializers": true,
+            "superclassNames": [
+              "ObjectiveC.NSObject"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "ConfigurableWith",
+                "printedName": "ConfigurableWith",
+                "usr": "s:17KochavaNetworking16ConfigurableWithP",
+                "mangledName": "$s17KochavaNetworking16ConfigurableWithP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "DecodableFrom",
+                "printedName": "DecodableFrom",
+                "usr": "s:17KochavaNetworking13DecodableFromP",
+                "mangledName": "$s17KochavaNetworking13DecodableFromP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "DecodableFromWithInitializedObject",
+                "printedName": "DecodableFromWithInitializedObject",
+                "usr": "s:17KochavaNetworking34DecodableFromWithInitializedObjectP",
+                "mangledName": "$s17KochavaNetworking34DecodableFromWithInitializedObjectP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "EncodableTo",
+                "printedName": "EncodableTo",
+                "usr": "s:17KochavaNetworking11EncodableToP",
+                "mangledName": "$s17KochavaNetworking11EncodableToP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Executor",
+                "printedName": "Executor",
+                "usr": "s:17KochavaNetworking8ExecutorP",
+                "mangledName": "$s17KochavaNetworking8ExecutorP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Invalidatable",
+                "printedName": "Invalidatable",
+                "usr": "s:17KochavaNetworking13InvalidatableP",
+                "mangledName": "$s17KochavaNetworking13InvalidatableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Keyable",
+                "printedName": "Keyable",
+                "usr": "s:17KochavaNetworking7KeyableP",
+                "mangledName": "$s17KochavaNetworking7KeyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Logger_Provider",
+                "printedName": "Logger_Provider",
+                "usr": "s:17KochavaNetworking15Logger_ProviderP",
+                "mangledName": "$s17KochavaNetworking15Logger_ProviderP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Startable",
+                "printedName": "Startable",
+                "usr": "s:17KochavaNetworking9StartableP",
+                "mangledName": "$s17KochavaNetworking9StartableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CVarArg",
+                "printedName": "CVarArg",
+                "usr": "s:s7CVarArgP",
+                "mangledName": "$ss7CVarArgP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObservingPublishing",
+                "printedName": "_KeyValueCodingAndObservingPublishing",
+                "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+                "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "_KeyValueCodingAndObserving",
+                "printedName": "_KeyValueCodingAndObserving",
+                "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+                "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomStringConvertible",
+                "printedName": "CustomStringConvertible",
+                "usr": "s:s23CustomStringConvertibleP",
+                "mangledName": "$ss23CustomStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomDebugStringConvertible",
+                "printedName": "CustomDebugStringConvertible",
+                "usr": "s:s28CustomDebugStringConvertibleP",
+                "mangledName": "$ss28CustomDebugStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Typed",
+                "printedName": "Typed",
+                "usr": "s:17KochavaNetworking5TypedP",
+                "mangledName": "$s17KochavaNetworking5TypedP"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@KochavaTracking@objc(cs)KVATracking",
+        "mangledName": "$s15KochavaTracking0B0C",
+        "moduleName": "KochavaTracking",
+        "objc_name": "KVATracking",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ConfigurableWith",
+            "printedName": "ConfigurableWith",
+            "usr": "s:17KochavaNetworking16ConfigurableWithP",
+            "mangledName": "$s17KochavaNetworking16ConfigurableWithP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ConfigurableWithWithOptions",
+            "printedName": "ConfigurableWithWithOptions",
+            "usr": "s:17KochavaNetworking016ConfigurableWithD7OptionsP",
+            "mangledName": "$s17KochavaNetworking016ConfigurableWithD7OptionsP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DecodableFrom",
+            "printedName": "DecodableFrom",
+            "usr": "s:17KochavaNetworking13DecodableFromP",
+            "mangledName": "$s17KochavaNetworking13DecodableFromP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DecodableFromWithInitializedObject",
+            "printedName": "DecodableFromWithInitializedObject",
+            "usr": "s:17KochavaNetworking34DecodableFromWithInitializedObjectP",
+            "mangledName": "$s17KochavaNetworking34DecodableFromWithInitializedObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "EncodableTo",
+            "printedName": "EncodableTo",
+            "usr": "s:17KochavaNetworking11EncodableToP",
+            "mangledName": "$s17KochavaNetworking11EncodableToP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Executor",
+            "printedName": "Executor",
+            "usr": "s:17KochavaNetworking8ExecutorP",
+            "mangledName": "$s17KochavaNetworking8ExecutorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Invalidatable",
+            "printedName": "Invalidatable",
+            "usr": "s:17KochavaNetworking13InvalidatableP",
+            "mangledName": "$s17KochavaNetworking13InvalidatableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "InvalidatableWithOptions",
+            "printedName": "InvalidatableWithOptions",
+            "usr": "s:17KochavaNetworking24InvalidatableWithOptionsP",
+            "mangledName": "$s17KochavaNetworking24InvalidatableWithOptionsP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Logger_Provider",
+            "printedName": "Logger_Provider",
+            "usr": "s:17KochavaNetworking15Logger_ProviderP",
+            "mangledName": "$s17KochavaNetworking15Logger_ProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Networking_RequiredProvider",
+            "printedName": "Networking_RequiredProvider",
+            "usr": "s:17KochavaNetworking0B17_RequiredProviderP",
+            "mangledName": "$s17KochavaNetworking0B17_RequiredProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SharedInstanceProvider",
+            "printedName": "SharedInstanceProvider",
+            "usr": "s:17KochavaNetworking22SharedInstanceProviderP",
+            "mangledName": "$s17KochavaNetworking22SharedInstanceProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Startable",
+            "printedName": "Startable",
+            "usr": "s:17KochavaNetworking9StartableP",
+            "mangledName": "$s17KochavaNetworking9StartableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "StartableWithOptions",
+            "printedName": "StartableWithOptions",
+            "usr": "s:17KochavaNetworking20StartableWithOptionsP",
+            "mangledName": "$s17KochavaNetworking20StartableWithOptionsP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Stoppable",
+            "printedName": "Stoppable",
+            "usr": "s:17KochavaNetworking9StoppableP",
+            "mangledName": "$s17KochavaNetworking9StoppableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "StoppableWithOptions",
+            "printedName": "StoppableWithOptions",
+            "usr": "s:17KochavaNetworking20StoppableWithOptionsP",
+            "mangledName": "$s17KochavaNetworking20StoppableWithOptionsP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Typed",
+            "printedName": "Typed",
+            "usr": "s:17KochavaNetworking5TypedP",
+            "mangledName": "$s17KochavaNetworking5TypedP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "JavaScriptCore",
+        "printedName": "JavaScriptCore",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "KochavaNetworking",
+        "printedName": "KochavaNetworking",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Product",
+        "printedName": "Product",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Product",
+                "printedName": "KochavaNetworking.Product",
+                "usr": "c:@M@KochavaNetworking@objc(cs)KochavaNetworking_Product"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@KochavaTracking@objc(cs)KochavaTracking_Product(cpy)shared",
+            "mangledName": "$s15KochavaTracking7ProductC6shared0A10NetworkingABCvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Product",
+                    "printedName": "KochavaNetworking.Product",
+                    "usr": "c:@M@KochavaNetworking@objc(cs)KochavaNetworking_Product"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@KochavaTracking@objc(cs)KochavaTracking_Product(cm)shared",
+                "mangledName": "$s15KochavaTracking7ProductC6shared0A10NetworkingABCvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sharedInstance",
+            "printedName": "sharedInstance",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15KochavaTracking7ProductC14sharedInstanceyXlvpZ",
+            "mangledName": "$s15KochavaTracking7ProductC14sharedInstanceyXlvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking7ProductC14sharedInstanceyXlvgZ",
+                "mangledName": "$s15KochavaTracking7ProductC14sharedInstanceyXlvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "logger",
+            "printedName": "logger",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Logger",
+                "printedName": "os.Logger",
+                "usr": "s:2os6LoggerV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15KochavaTracking7ProductC6logger2os6LoggerVvpZ",
+            "mangledName": "$s15KochavaTracking7ProductC6logger2os6LoggerVvpZ",
+            "moduleName": "KochavaTracking",
+            "static": true,
+            "intro_Macosx": "11.0",
+            "intro_iOS": "14.0",
+            "intro_tvOS": "14.0",
+            "intro_watchOS": "7.0",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "Available",
+              "Available",
+              "Available",
+              "Available",
+              "Available",
+              "Available",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Logger",
+                    "printedName": "os.Logger",
+                    "usr": "s:2os6LoggerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15KochavaTracking7ProductC6logger2os6LoggerVvgZ",
+                "mangledName": "$s15KochavaTracking7ProductC6logger2os6LoggerVvgZ",
+                "moduleName": "KochavaTracking",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Product",
+                "printedName": "KochavaTracking.Product",
+                "usr": "c:@M@KochavaTracking@objc(cs)KochavaTracking_Product"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@KochavaTracking@objc(cs)KochavaTracking_Product(im)init",
+            "mangledName": "$s15KochavaTracking7ProductCACycfc",
+            "moduleName": "KochavaTracking",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@KochavaTracking@objc(cs)KochavaTracking_Product",
+        "mangledName": "$s15KochavaTracking7ProductC",
+        "moduleName": "KochavaTracking",
+        "objc_name": "KochavaTracking_Product",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Logger_Provider",
+            "printedName": "Logger_Provider",
+            "usr": "s:17KochavaNetworking15Logger_ProviderP",
+            "mangledName": "$s17KochavaNetworking15Logger_ProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SharedInstanceProvider",
+            "printedName": "SharedInstanceProvider",
+            "usr": "s:17KochavaNetworking22SharedInstanceProviderP",
+            "mangledName": "$s17KochavaNetworking22SharedInstanceProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      },
+      {
+        "kind": "Import",
+        "name": "KochavaNetworking",
+        "printedName": "KochavaNetworking",
+        "declKind": "Import",
+        "moduleName": "KochavaTracking"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 1207,
+      "length": 13,
+      "value": "\"Did Restore\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 1223,
+      "length": 12,
+      "value": "\"Did Create\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "Dictionary",
+      "offset": 4214,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 4731,
+      "length": 6,
+      "value": "\"idfa\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 4883,
+      "length": 35,
+      "value": "\"idfaString_raw_mockOverrideString\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 5232,
+      "length": 44,
+      "value": "\"idfaString_raw_mockOverrideString_useCount\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 5631,
+      "length": 15,
+      "value": "\"Did Configure\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 6503,
+      "length": 12,
+      "value": "\"datapoints\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 6661,
+      "length": 37,
+      "value": "\"KochavaTracking.Tracking.Datapoints\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7498,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 8495,
+      "length": 54,
+      "value": "\"Tracking.Datapoints.deviceLimitAdTrackingBoolAdapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 8580,
+      "length": 23,
+      "value": "\"device_limit_tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 8628,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8669,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8840,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10699,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10811,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12083,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 12211,
+      "length": 38,
+      "value": "\"00000000-0000-0000-0000-000000000000\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12355,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 12793,
+      "length": 39,
+      "value": "\"Tracking.Datapoints.idfaStringAdapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 12863,
+      "length": 6,
+      "value": "\"idfa\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 12894,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12935,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "Array",
+      "offset": 13047,
+      "length": 40,
+      "value": "[0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 1.3]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13138,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13174,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "FloatLiteral",
+      "offset": 13218,
+      "length": 4,
+      "value": "15.0"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 14022,
+      "length": 72,
+      "value": "\"IDFA collection did receive zeroes when ATT authorized (synchronously)\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 14324,
+      "length": 63,
+      "value": "\"Measurement.Sessions.currentSessionReportDictionaryAppendTask\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 14421,
+      "length": 83,
+      "value": "\"Tracking.Datapoints.Measurement.Sessions.currentSessionReportDictionaryAppendTask\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 14583,
+      "length": 5,
+      "value": "\"key\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 14590,
+      "length": 18,
+      "value": "\"idfa_retry_count\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 14634,
+      "length": 7,
+      "value": "\"count\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14643,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 15940,
+      "length": 73,
+      "value": "\"IDFA collection did receive zeroes when ATT authorized (asynchronously)\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 16243,
+      "length": 63,
+      "value": "\"Measurement.Sessions.currentSessionReportDictionaryAppendTask\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 16340,
+      "length": 83,
+      "value": "\"Tracking.Datapoints.Measurement.Sessions.currentSessionReportDictionaryAppendTask\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 16502,
+      "length": 5,
+      "value": "\"key\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 16509,
+      "length": 18,
+      "value": "\"idfa_retry_count\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 16553,
+      "length": 7,
+      "value": "\"count\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16562,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "StringLiteral",
+      "offset": 19376,
+      "length": 97,
+      "value": "\"Measurement.AppTrackingTransparency.authorizationStatusAuthorizedNoInferenceBoolOptionalAdapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.Datapoints.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19844,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2208,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4237,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4423,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4943,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5069,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 5236,
+      "length": 13,
+      "value": "\"Did Restore\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 5252,
+      "length": 12,
+      "value": "\"Did Create\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6280,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 6461,
+      "length": 14,
+      "value": "\"Will Dealloc\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 6531,
+      "length": 20,
+      "value": "\"instanceIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 6605,
+      "length": 17,
+      "value": "\"instancePointer\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 6624,
+      "length": 70,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 6693,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8778,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 8848,
+      "length": 12,
+      "value": "\"storage_id\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 9876,
+      "length": 12,
+      "value": "\"storage_id\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15260,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15289,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 16261,
+      "length": 23,
+      "value": "\"func configure(with:)\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16778,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16839,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 17063,
+      "length": 11,
+      "value": "\"$default$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 17132,
+      "length": 18,
+      "value": "\"$default.append$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 17692,
+      "length": 12,
+      "value": "\"$override$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 17763,
+      "length": 19,
+      "value": "\"$override.append$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19072,
+      "length": 11,
+      "value": "\"$default$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19121,
+      "length": 18,
+      "value": "\"$default.append$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19177,
+      "length": 12,
+      "value": "\"$override$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19227,
+      "length": 19,
+      "value": "\"$override.append$\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19284,
+      "length": 12,
+      "value": "\"networking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19544,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19550,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19653,
+      "length": 25,
+      "value": "\"passedAlongFromLinkBool\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19708,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "Dictionary",
+      "offset": 19857,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 19964,
+      "length": 25,
+      "value": "\"passedAlongFromLinkBool\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19993,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 20129,
+      "length": 18,
+      "value": "\"mergedDictionary\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 20316,
+      "length": 88,
+      "value": "\"Will Configure\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 20373,
+      "length": 24,
+      "value": "\" (Including Overrides)\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 20400,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 20403,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20476,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "Dictionary",
+      "offset": 20781,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21524,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21562,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 21653,
+      "length": 9,
+      "value": "\"adapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 21889,
+      "length": 15,
+      "value": "\"Did Configure\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22710,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22936,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22965,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 24191,
+      "length": 14,
+      "value": "\"func start()\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25161,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25199,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26756,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26785,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 28669,
+      "length": 13,
+      "value": "\"func stop()\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 29696,
+      "length": 38,
+      "value": "\"2d54ed1e-301e-4dcc-8d4b-6ec71a2c8b27\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 29831,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30120,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 30162,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 30977,
+      "length": 46,
+      "value": "\"; instanceIdentifier = \""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31022,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31248,
+      "length": 45,
+      "value": "\"; storageIdentifier = \""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31292,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31308,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31345,
+      "length": 147,
+      "value": "\"<\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31359,
+      "length": 1,
+      "value": "\": \""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31429,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31460,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31490,
+      "length": 1,
+      "value": "\">\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 31644,
+      "length": 26,
+      "value": "\"KochavaTracking.Tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 32160,
+      "length": 31,
+      "value": "\"Tracking.executionTokenString\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 32669,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 32698,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 33939,
+      "length": 19,
+      "value": "\"func invalidate()\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 34782,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 35022,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 35060,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 37448,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 37550,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 37602,
+      "length": 37,
+      "value": "\"Tracking.Config.retrieveTransaction\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 37741,
+      "length": 32,
+      "value": "\"Networking.Config.retrieveTask\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 38052,
+      "length": 16,
+      "value": "\"baseIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 38070,
+      "length": 39,
+      "value": "\"Networking.Config.retrieveTransaction\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 38131,
+      "length": 12,
+      "value": "\"identifier\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 38145,
+      "length": 37,
+      "value": "\"Tracking.Config.retrieveTransaction\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 39152,
+      "length": 18,
+      "value": "\"Tracking.adapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 39201,
+      "length": 10,
+      "value": "\"tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 39318,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 39367,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "FloatLiteral",
+      "offset": 39412,
+      "length": 4,
+      "value": "0.25"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 39470,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "Array",
+      "offset": 40793,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "Array",
+      "offset": 41618,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 42294,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 44021,
+      "length": 49,
+      "value": "\"var sharedNetworkingLinkAutomaticallyBool - set\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 44146,
+      "length": 348,
+      "value": "\"An attempt was made to set the sharedNetworkingLinkAutomaticallyBool after the shared instance had already been instantiated.  If this property is used, it is imperative that this value be set consistently prior to accessing the shared instance for the first time.  Failure to do so will result in reverting back to the default automatic linking.\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "BooleanLiteral",
+      "offset": 44766,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 46362,
+      "length": 35,
+      "value": "\"var sharedStorageIdentifier - set\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 46473,
+      "length": 333,
+      "value": "\"An attempt was made to set the sharedStorageIdentifier after the shared instance had already been instantiated.  If this property is used, it is imperative that this value be set consistently prior to accessing the shared instance for the first time.  Failure to do so will result in reverting back to the default storage location.\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 8,
+      "value": "\"KochavaTracking.Tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 1942,
+      "length": 10,
+      "value": "\"Tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 1980,
+      "length": 9,
+      "value": "\"Kochava\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2018,
+      "length": 29,
+      "value": "\"com.kochava.KochavaTracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2070,
+      "length": 16,
+      "value": "\"Apple.Tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2111,
+      "length": 7,
+      "value": "\"8.0.0\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2146,
+      "length": 3,
+      "value": "\"8\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2283,
+      "length": 20,
+      "value": "\"KVABuildDateString\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2326,
+      "length": 13,
+      "value": "\"xcframework\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2354,
+      "length": 8,
+      "value": "\"source\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "Array",
+      "offset": 2406,
+      "length": 4,
+      "value": "[25]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 2857,
+      "length": 13,
+      "value": "\"Measurement\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2919,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2970,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 3089,
+      "length": 10,
+      "value": "\"Tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 3421,
+      "length": 32,
+      "value": "\"KochavaMeasurement.Measurement\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3525,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3594,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3655,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3715,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3781,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 3963,
+      "length": 26,
+      "value": "\"KochavaTracking.Tracking\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4038,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4533,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4671,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4709,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4782,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "Dictionary",
+      "offset": 5010,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 5127,
+      "length": 33,
+      "value": "\"didInvalidateSharedTrackingBool\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5164,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Product.swift",
+      "kind": "StringLiteral",
+      "offset": 5740,
+      "length": 25,
+      "value": "\"KochavaTracking.Product\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 1286,
+      "length": 13,
+      "value": "\"Did Restore\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 1302,
+      "length": 12,
+      "value": "\"Did Create\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 2311,
+      "length": 19,
+      "value": "\"storageIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3132,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "Dictionary",
+      "offset": 4602,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 5172,
+      "length": 15,
+      "value": "\"Did Configure\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5970,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 6544,
+      "length": 9,
+      "value": "\"general\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 6699,
+      "length": 34,
+      "value": "\"KochavaTracking.Tracking.General\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7542,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 10129,
+      "length": 7,
+      "value": "\"token\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 10342,
+      "length": 8,
+      "value": "\"config\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "Dictionary",
+      "offset": 10372,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 10406,
+      "length": 7,
+      "value": "\"token\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 10592,
+      "length": 8,
+      "value": "\"config\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 11080,
+      "length": 45,
+      "value": "\"Tracking.General.controlDomainStringAdapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 11156,
+      "length": 25,
+      "value": "\"tracking_control_domain\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 11274,
+      "length": 26,
+      "value": "\"tracking.sdk.kochava.com\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 11629,
+      "length": 44,
+      "value": "\"Tracking.General.sharedInstanceBoolAdapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 11704,
+      "length": 17,
+      "value": "\"shared_instance\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11755,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 12488,
+      "length": 43,
+      "value": "\"Tracking.General.storageIdentifierAdapter\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 12562,
+      "length": 12,
+      "value": "\"storage_id\""
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13751,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14035,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14187,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/johnbushnell\/Code\/Kochava\/Apple-SwiftPackage-KochavaTracking\/Sources\/KochavaTracking\/Tracking.General.swift",
+      "kind": "StringLiteral",
+      "offset": 425,
+      "length": 7,
+      "value": "\"KochavaTracking.General\""
+    }
+  ]
+}
