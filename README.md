@@ -13,7 +13,7 @@ The KochavaTracking framework is an SDK which improves install measurement and a
 
 ## Built on
 
-* Xcode 15.2
+* Xcode 15.3
 
 ## Platforms
 
@@ -22,7 +22,7 @@ The KochavaTracking framework is an SDK which improves install measurement and a
 * macOS 10.15
 * tvOS 13.0
 * visionOS 1.0
-* watchOS 6.0
+* watchOS 7.0
 
 ## Dependencies
 

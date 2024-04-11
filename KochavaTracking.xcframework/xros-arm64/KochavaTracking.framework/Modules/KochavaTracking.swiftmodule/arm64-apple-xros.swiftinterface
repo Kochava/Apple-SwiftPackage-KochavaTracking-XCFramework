@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-xros1.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name KochavaTracking
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-xros1.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name KochavaTracking
 import Foundation
 import JavaScriptCore
 import KochavaNetworking
@@ -20,9 +19,9 @@ extension KochavaTracking.Tracking {
     public static func from(_ object: Any?) -> Self?
     @discardableResult
     public static func from(_ object: Any?, initializedObject: Any?) -> Self?
-    final public func to(context: KochavaNetworking.Context?) -> Swift.AnyObject?
+    final public func to(context: KochavaNetworking.Context?) -> Any?
     final public func configure(with object: Any?, context: KochavaNetworking.Context?)
-    @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, watchOS 7.0, *)
+    @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, visionOS 1.0, watchOS 7.0, *)
     public static let logger: os.Logger
     final public func key(context: KochavaNetworking.Context?) -> Swift.AnyHashable?
     public static let type_kochava: KochavaNetworking.Kochava_Type
@@ -47,7 +46,7 @@ extension KochavaTracking.Tracking {
   @objc public static var shared_optional: KochavaTracking.Tracking? {
     @objc get
   }
-  @objc public static var sharedInstance: Swift.AnyObject {
+  @objc public static var sharedInstance: Any {
     @objc get
   }
   @objc(initWithStorageIdentifier:) convenience public init(storageIdentifier: KochavaNetworking.Networking.StorageIdentifier? = nil)
@@ -55,14 +54,14 @@ extension KochavaTracking.Tracking {
   public static func from(_ object: Any?) -> Self?
   @discardableResult
   public static func from(_ object: Any?, initializedObject: Any?) -> Self?
-  final public func to(context: KochavaNetworking.Context?) -> Swift.AnyObject?
+  final public func to(context: KochavaNetworking.Context?) -> Any?
   @objc(configureWith:context:) final public func configure(with object: Any?, context: KochavaNetworking.Context?)
   @objc final public func configure(with object: Any?, context: KochavaNetworking.Context?, logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
   @objc final public func start()
   @objc final public func start(logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
   @objc final public func stop()
   @objc final public func stop(logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
-  @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, watchOS 7.0, *)
+  @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, visionOS 1.0, watchOS 7.0, *)
   public static let logger: os.Logger
   @objc override final public var description: Swift.String {
     @objc get
@@ -95,10 +94,10 @@ extension KochavaTracking.Tracking : JavaScriptCore.JSExport {
 }
 @_inheritsConvenienceInitializers @objc(KochavaTracking_Product) final public class Product : ObjectiveC.NSObject, KochavaNetworking.Logger_Provider, KochavaNetworking.SharedInstanceProvider {
   @objc public static let shared: KochavaNetworking.Product
-  public static var sharedInstance: Swift.AnyObject {
+  public static var sharedInstance: Any {
     get
   }
-  @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, watchOS 7.0, *)
+  @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, visionOS 1.0, watchOS 7.0, *)
   public static let logger: os.Logger
   @objc override dynamic public init()
   @objc deinit
@@ -108,10 +107,10 @@ extension KochavaTracking.Tracking {
     public static func from(_ object: Any?) -> Self?
     @discardableResult
     public static func from(_ object: Any?, initializedObject: Any?) -> Self?
-    final public func to(context: KochavaNetworking.Context?) -> Swift.AnyObject?
+    final public func to(context: KochavaNetworking.Context?) -> Any?
     final public func configure(with object: Any?, context: KochavaNetworking.Context?)
     final public func start()
-    @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, watchOS 7.0, *)
+    @available(iOS 14.0, iOSApplicationExtension 14.0, macOS 11.0, tvOS 14.0, tvOSApplicationExtension 14.0, visionOS 1.0, watchOS 7.0, *)
     public static let logger: os.Logger
     final public func key(context: KochavaNetworking.Context?) -> Swift.AnyHashable?
     public static let type_kochava: KochavaNetworking.Kochava_Type

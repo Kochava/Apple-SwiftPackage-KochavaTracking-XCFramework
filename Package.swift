@@ -12,7 +12,7 @@ let package = Package(
         .macOS(.v10_15),
         .tvOS(.v13),
         .visionOS(.v1),
-        .watchOS(.v6)
+        .watchOS(.v7)
     ],
     products:
     [
@@ -34,7 +34,7 @@ let package = Package(
 //        )
         .package(
             url: "https://github.com/Kochava/Apple-SwiftPackage-KochavaNetworking-XCFramework",
-            from: "8.1.0"
+            from: "8.1.1"
         )
     ],
     targets:
