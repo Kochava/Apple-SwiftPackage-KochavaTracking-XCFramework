@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iAeHPdhxHJSVG8YsJdzRuOtTDdg=
+		ph+A04cOKaR9kpPKtxddEhot+KY=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EfSM9OCJz6tBdV94r2xtUhIvnCo=
+		BycmO3dpntXXBzm8pDGZ3TcktOY=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ocnBvbm2z599gO0yQga+Il8Vfzc=
+		hoCXyt4aXTi8YXt2tE0niP4V9ck=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PQrAhlewamFXfmE8OZ5oFFHjctorpIJr2A1NnYl5hdc=
+			Tb44RbQF397II7wrCxFf0/PvYxkL710mIJZZEZ6PZoU=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Si6VxrTs0UvU2axKD2ICt1FEzoQQEp4wkXvJ4UCUHCA=
+			9DAE2akamqt0rMHISAvDkJ92H4BM5k1ieaA2c45eoo4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UWTF4lmKlbcxZ4MMO/cM0g7XDZc=
+		gW4G9h9T3YH1gEKUoulGwOp9zn4=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		HTYXqgjrKLC1Wj+ho4rnFa6hbw0=
+		+unw3ftst8Ngap6k0zBwnK7zrIQ=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-xros-simulator.swiftmodule</key>
 		<data>
-		gM23K45hY9fbohKd/YCOXQYrB4c=
+		ptN7wK6gFAEdMlOpQKx+b1jvE0M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGZDIJGhQjf9KDjtXA16oTPJCgdaI3IyDgye7s9sxJM=
+			w7xRDRNDyNOwlliKxeI5Tuge+7JEzvA1HhsC4HKen8k=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LkXcvj6bsv0G5B0jRRSzAtbuFi5uGgyozdxo8nJuvvE=
+			zh+aGlRNT5a4RxiAveKwlo6+u2qkX4Z34tnvZj1a3Lw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
