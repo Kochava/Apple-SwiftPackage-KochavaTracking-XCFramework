@@ -6,55 +6,55 @@
 	<dict>
 		<key>Headers/KochavaTracking-Swift.h</key>
 		<data>
-		i7NQ3QExiOvxWc5pU656grNDtQc=
+		K7g8xAcHgMkPIFDcPd6Oo6E6KxE=
 		</data>
 		<key>Headers/KochavaTracking.h</key>
 		<data>
-		lku8BdKhGbgpH711JwaxOfIWwgI=
+		GdUZ6vFKZPFrI7vJGe8iNzDWt8U=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		s5SjhKuK4K885e0kiKpO3jMC8mE=
+		scBI/bMLOh1bLb+SGDvLLv2b8yU=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		zEl3quIm3+H6iYbUH5L/PLzTwZU=
+		QQIWBJJUEQPKoMMEoHf3sfhBUq4=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ausZZpKNZk7f1hllktBOEU91MmE=
+		OA9xkBS4z69kdxOLRqXnBjLQ904=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vi1lfiMAZob/crdSiJBHKXhyZZE=
+		85oYo6kZJnMTWLY0xoLhVQFrMjg=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ausZZpKNZk7f1hllktBOEU91MmE=
+		OA9xkBS4z69kdxOLRqXnBjLQ904=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fMIteIIsX/wgqULqFA6S/n5I7qA=
+		HvZjMvYiiQZnM+Wt8uKSyq+33LU=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		zEl3quIm3+H6iYbUH5L/PLzTwZU=
+		QQIWBJJUEQPKoMMEoHf3sfhBUq4=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		OPx4x8fLinwiqN8JNXO8ISsoIBQ=
+		56GR2DSfgSmYgRing/fFCumOKKg=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CuG3QsTLySm0Faj0LzYetOSdZas=
+		HFOfKtqbAydRwfKrocuhofQmU9k=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OPx4x8fLinwiqN8JNXO8ISsoIBQ=
+		56GR2DSfgSmYgRing/fFCumOKKg=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5IEOhmJ5hTrGFQQQY6Hw+4UGcjE=
+		KoVPoGo+q31pcAudBNKELz7Qgvg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,84 +71,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n+wDcBsur1kbjekMIgrwjNGvSezCib6H6luSKLs54Dc=
+			E/Vx0F+7HT5j9DqRdza9sE46qb3moUG+aiqkDSJKSEA=
 			</data>
 		</dict>
 		<key>Headers/KochavaTracking.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kSwpHrFxVabCtch4YR6iZYNaRajWTt2tnBNjtwe2Ypg=
+			ZjK+Vri8eiNYTu6l+6OP8aEcUGrAPZgvOxfKQ/TfFl0=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			czNAIOM1J+J1a1m2DPuopU/XM9CQM67cYDtIDgV6VcA=
+			lHLglTckP8ldxIBelVoTfZA2bSIOR8umwB2y03DUN3Q=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I28jJJC4zCcQjS0NhX5PSnXmmCdqyJK2OD7A5QzjbvY=
+			XntxvbeQutMPvel2RwxBjsDrfcbQYZ370znS9bbxX0Y=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NqZHRKUOV1t3KCGW7iBnfsnOxH30jq6EZJtlX+k3FgU=
+			FWbAeSp5SRCd/kzdjDklWK7aFwXXym7FfJU2+HYaFks=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I28jJJC4zCcQjS0NhX5PSnXmmCdqyJK2OD7A5QzjbvY=
+			XntxvbeQutMPvel2RwxBjsDrfcbQYZ370znS9bbxX0Y=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qISXjdgCq6qeD2G5MUZKO8aY/LNluJAyB1Ymfs0GSmc=
+			0WiPZL3smmBc1qAOx5U9wn2GjiEKKcdvbrFOMsnw5AA=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			czNAIOM1J+J1a1m2DPuopU/XM9CQM67cYDtIDgV6VcA=
+			lHLglTckP8ldxIBelVoTfZA2bSIOR8umwB2y03DUN3Q=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d6GEGmAf0Q92oneuCqzIg1wuIrEI0xWVjAeqcDs1Wu8=
+			oDEsvcmZL5bGZa7FEIV8CXQCqKzoE/A+rLRQT7Fk+ys=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ehOCtN/oJuiUDUO9MMOsPujp46Bij75yKVb9SRCP53I=
+			83Ra/eDWCPmF+xGgd52Uo8K33kA8jg9cfWKmOzm8Pr8=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d6GEGmAf0Q92oneuCqzIg1wuIrEI0xWVjAeqcDs1Wu8=
+			oDEsvcmZL5bGZa7FEIV8CXQCqKzoE/A+rLRQT7Fk+ys=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nrcwR/Hc7JVbSwgBfdAj1LpSNmwZHqZhpYxIUl47bY0=
+			eX8ngqYmhbOPp0PR9QR4lsWJKiyTzfT9CkEDN1ftOdc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

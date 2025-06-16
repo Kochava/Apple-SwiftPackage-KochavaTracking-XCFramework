@@ -326,7 +326,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) KochavaNetwo
 SWIFT_CLASS_NAMED("Tracking")
 @interface KVATracking : NSObject
 /// A shared instance, for convenience.
-/// This is the preferred way of using a tracking instance.  To complete the integration you must call func <code>Tracking/start()</code>, or else start a controlling linked module.  You may alternatively use a constructor to create your own tracking.  The shared instance simplifies your implementation as you do not need to store a tracking instance somewhere in a public location in your own code, and you do not need to manually link together the clients of any optional products.
+/// This is the preferred way of using a tracking instance.  To complete the integration you must call func <code>Tracking/start()</code>, or else start a controlling linked module.  You may alternatively use a constructor to create your own tracking instance.  The shared instance simplifies your implementation as you do not need to store a tracking instance somewhere in a public location in your own code, and you do not need to manually link together the clients of any optional products.
 /// By default this instance will use the default storage location equivalent to calling <code>Tracking/init(storageIdentifier:)</code> with storageIdentifier nil.  If you wish to specify an alternative storage location, see var <code>sharedStorageIdentifier</code>.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) KVATracking * _Nonnull shared;)
 + (KVATracking * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;

@@ -38,7 +38,7 @@ extension KochavaTracking.Tracking {
     @objc deinit
   }
 }
-@_hasMissingDesignatedInitializers @objc(KVATracking) final public class Tracking : ObjectiveC.NSObject, KochavaNetworking.ConfigurableWith, KochavaNetworking.ConfigurableWithWithOptions, KochavaNetworking.DecodableFrom, KochavaNetworking.DecodableFromWithInitializedObject, KochavaNetworking.EncodableTo, KochavaNetworking.Executor, KochavaNetworking.Invalidatable, KochavaNetworking.InvalidatableWithOptions, os.Logger.Provider, KochavaNetworking.Networking.RequiredProvider, KochavaNetworking.SharedInstanceProvider, KochavaNetworking.Startable, KochavaNetworking.StartableWithOptions, KochavaNetworking.Stoppable, KochavaNetworking.StoppableWithOptions {
+@_hasMissingDesignatedInitializers @objc(KVATracking) final public class Tracking : ObjectiveC.NSObject, KochavaNetworking.ConfigurableWith, KochavaNetworking.ConfigurableWithWithOptions, KochavaNetworking.DecodableFrom, KochavaNetworking.DecodableFromWithInitializedObject, KochavaNetworking.EncodableTo, KochavaNetworking.Executor, KochavaNetworking.Invalidatable, KochavaNetworking.InvalidatableWithOptions, KochavaNetworking.Keyable, os.Logger.Provider, KochavaNetworking.Networking.RequiredProvider, KochavaNetworking.SharedInstanceProvider, KochavaNetworking.Startable, KochavaNetworking.StartableWithOptions, KochavaNetworking.Stoppable, KochavaNetworking.StoppableWithOptions {
   @objc public static var shared: KochavaTracking.Tracking {
     @objc get
   }
@@ -61,6 +61,7 @@ extension KochavaTracking.Tracking {
   @objc final public func stop()
   @objc final public func stop(logMessagePrintBool: Swift.Bool, asyncBool: Swift.Bool)
   public static let logger: os.Logger
+  final public func key(context: KochavaNetworking.Context?) -> Swift.AnyHashable?
   @objc override final public var description: Swift.String {
     @objc get
   }
@@ -127,7 +128,6 @@ extension KochavaTracking.Tracking {
     final public var storageIdentifierAdapter: KochavaNetworking.Adapter {
       get
     }
-    final public let instanceCreatedDate: Foundation.Date
     @objc deinit
   }
 }
