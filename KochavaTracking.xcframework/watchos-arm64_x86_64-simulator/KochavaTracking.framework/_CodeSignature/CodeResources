@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uqysPnXQ6gYNFyhBG8VD7OFivJs=
+		prGdeeahUqGWXrdNByWhH2BpXLw=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		f4ogKD+Kbcacbxdc5SLnSBMM5cM=
+		/x+0HOzdKdSGH6+v/26zyrBsCfE=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		1ZdXUn83I4HLuRUiAtJ678onYVI=
+		q23T9urVzYR4Iy7NqxrrZjfsCzQ=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		f4ogKD+Kbcacbxdc5SLnSBMM5cM=
+		/x+0HOzdKdSGH6+v/26zyrBsCfE=
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		R8JQAUL+ZUUTFeS+/nOcYjJjnGU=
+		tltEbKkvkdKDkWIGbf4yyMIjFQE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQ+ONPYq4Egum5DlGDZdKEe32US0xXrkbeXukokro/E=
+			V/wBMhoMBVNL+fiiPsiG9aZ/aTZKZpuSkumaDOEEcLc=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OfkM50FVDU4YJsF/z4sf1wJuuoW1661bhF6wKbqJE4g=
+			oSqEWYV9L1/4vbQgtiPdawC+JDRabdjJLiXC4y2WUNI=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQ+ONPYq4Egum5DlGDZdKEe32US0xXrkbeXukokro/E=
+			V/wBMhoMBVNL+fiiPsiG9aZ/aTZKZpuSkumaDOEEcLc=
 			</data>
 		</dict>
 		<key>Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KT0U3jYCwr2V9a2nVJUdLgYNYgKEsTEkConk1PxYw5A=
+			xTu+2PPJFF/uGDkZh/rU5LiyRAzx1w8PN43DWlEJR7U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
