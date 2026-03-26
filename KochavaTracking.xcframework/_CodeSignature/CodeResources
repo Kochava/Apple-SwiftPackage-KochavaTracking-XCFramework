@@ -14,15 +14,15 @@
 		</data>
 		<key>ios-arm64/KochavaTracking.framework/Info.plist</key>
 		<data>
-		ZEy7MF4TbUm5IG3YTwt48vN82v8=
+		Lw5/DJZce5sK+KpYRJnqtk0Vnp8=
 		</data>
 		<key>ios-arm64/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		v3nBqgr7RAdKNeYqXK6o7YMZ7so=
+		kFieI7d9r+Xa7ZB8y9dIKSDbTLE=
 		</data>
 		<key>ios-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>ios-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -44,21 +44,25 @@
 		<data>
 		3ZwXRUzEoN6JVpEVmT6NzHjpizM=
 		</data>
+		<key>ios-arm64/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<data>
+		zldf1Qyf6+bQuhy0zJSYyKcdrYk=
+		</data>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		pNW6z9omc8D5lQmaizmiqip1fHk=
+		MmFmyt7HlHfDHmuJkDdPEdFzo5s=
 		</data>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/DWARF/KochavaTracking</key>
 		<data>
-		x7p1JMKKBG/q+ZJpar1MTWwEZlY=
+		1gRYsZm+KDwEI76dSLf+cbOBEiQ=
 		</data>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaTracking.yml</key>
 		<data>
-		721EhAv6eMPwFnRfaLOEQ8jHbJQ=
+		aJWgYORV67vE2KpEDRBAKML8RPo=
 		</data>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<data>
-		tihHi6nXpVhUJ2FaVj+oVld6hwg=
+		9DK4XR49LJ0ZvwEkQy/hmat7p+o=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Headers/KochavaTracking-Swift.h</key>
 		<data>
@@ -70,11 +74,11 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/KochavaTracking</key>
 		<data>
-		PHd3PWiS+bDOQCGEr8PlbctZyic=
+		2oZ0bSnamQkpa7wsY47Z5WN1vJ8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
@@ -90,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<data>
@@ -110,11 +114,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		9CoLMSSvSqXcRqxgrIUEmNeVtqk=
+		XWJMJmKN22P9rV95AV/MrPMaaoo=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
 		3ZwXRUzEoN6JVpEVmT6NzHjpizM=
+		</data>
+		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		144Kh8b9JBgQIi3VXNUfWbUHa8Y=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
@@ -126,15 +134,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Info.plist</key>
 		<data>
-		t3ZikcA67FwsgsYf2pgAVGZRN7k=
+		XLnswN3gJF6dASyMYkEOsbgSoUI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		N09tGSrl7oJVuwNYN87CEZ1D4hE=
+		F8Krcfmy6JcJjVr+xRc6UjBd9Xw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -150,7 +158,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -174,31 +182,31 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/_CodeSignature/CodeResources</key>
 		<data>
-		elMim+5Pgn/xQeWq91kXwa+6di4=
+		9F7pqkHa9hvUrKjzTGrxLk5n1+s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		pNW6z9omc8D5lQmaizmiqip1fHk=
+		MmFmyt7HlHfDHmuJkDdPEdFzo5s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/DWARF/KochavaTracking</key>
 		<data>
-		I4bi1EvwO558W0Z6cuIyzGI4zVg=
+		UcTmp0N456DOC7numabF3U177Kw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaTracking.yml</key>
 		<data>
-		hgJzx71cyirz98Ee5/ZIBAzZsUI=
+		ir93zaT29O9u6cYh4/Xue4IoeOQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Relocations/x86_64/KochavaTracking.yml</key>
 		<data>
-		ou3Hw/uQacJhFZ8U3YDu1kyzHJc=
+		2mtAEYFCngTWs07eSfPkrUorBrs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<data>
-		Sz7+X0qJdF8mbC176CHLlS0rtgk=
+		ReEE+1DJkdNU8L1PNQiCyPPVHM0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Swift/x86_64/KochavaNetworking.swiftinterface</key>
 		<data>
-		9d+OZj7m4exDWNo2mEQ4T/Ooa4A=
+		cde91n96rA3wSesfDHyDCLCSTgc=
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Headers/KochavaTracking-Swift.h</key>
 		<data>
@@ -210,11 +218,11 @@
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/KochavaTracking</key>
 		<data>
-		Afbp+V/Xf2cKIp5zwLLqsanl4AM=
+		ZoPwfBIafFb7048z3jsuBpPdQx0=
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-macos.abi.json</key>
 		<data>
-		J8q1XedvDtPIuwY7xUsop28fJbo=
+		RYne11XwtfqPyiZuDbrYAawk77M=
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<data>
@@ -230,7 +238,7 @@
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<data>
-		J8q1XedvDtPIuwY7xUsop28fJbo=
+		RYne11XwtfqPyiZuDbrYAawk77M=
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<data>
@@ -250,11 +258,15 @@
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		dYwyRIuHiY9/BuRoDD7U8UJGVYw=
+		WbrK+KYGpXjkOG4VzSxLuMP8B2k=
 		</data>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
 		3ZwXRUzEoN6JVpEVmT6NzHjpizM=
+		</data>
+		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<data>
+		hJ/Ft95EzX+rACAu0M0rAFYvVlY=
 		</data>
 		<key>tvos-arm64/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
@@ -266,15 +278,15 @@
 		</data>
 		<key>tvos-arm64/KochavaTracking.framework/Info.plist</key>
 		<data>
-		yWULcDuZ+pdq2diCO80SAdr0Txo=
+		eTLGfUUeHZOeyPfTBnZEkhplJoI=
 		</data>
 		<key>tvos-arm64/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		ZdznmxTr+RnZFtuaTbgQTlPF7mM=
+		epYfsd+dcu0+j2KY+yloTu0ctM0=
 		</data>
 		<key>tvos-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>tvos-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
 		<data>
@@ -296,6 +308,10 @@
 		<data>
 		3ZwXRUzEoN6JVpEVmT6NzHjpizM=
 		</data>
+		<key>tvos-arm64/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ZB+TPQ8KVJv/3HdQzMiELVR3z9c=
+		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
 		FbflfBNIwUu3iwtNbzHtfzdEgEk=
@@ -306,15 +322,15 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Info.plist</key>
 		<data>
-		dNKG5PFWr2qT2MklEQu84l8733E=
+		n8JdYtfVzkU+twLEL2/k0NR6I/s=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		wMfpJRH3ioXacUdJs2bmeG4Z4us=
+		assSEU08LXNSke3HE//3ynFKPAA=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -330,7 +346,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		HYRGPhOsRuEYR6rdKBdUMY2fbCI=
+		O9+iK0WATlGdeLk64JhX0rX7W+8=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -354,7 +370,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/_CodeSignature/CodeResources</key>
 		<data>
-		kVuiBWc9mQIK4MyJOayHZLZqjOQ=
+		BEtId5ibGCTzqU6I03H/sz4xov0=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
@@ -366,15 +382,15 @@
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Info.plist</key>
 		<data>
-		iGS3cEHWAhXghDgEUKCGpgfvDYw=
+		NQfAcPAPQOcmyQKjPQGiGX0Xy7Y=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		a3EOjKkLIqhpzih+xigzQKE3Fn0=
+		fAFN8RuzfYi0m4yr99EQaZVcWUc=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		/x+0HOzdKdSGH6+v/26zyrBsCfE=
+		gLszuutdwVau3ZXIav/usau+jTQ=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -390,7 +406,7 @@
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		/x+0HOzdKdSGH6+v/26zyrBsCfE=
+		gLszuutdwVau3ZXIav/usau+jTQ=
 		</data>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -412,6 +428,10 @@
 		<data>
 		3ZwXRUzEoN6JVpEVmT6NzHjpizM=
 		</data>
+		<key>watchos-arm64_arm64_32/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<data>
+		H98y25H5Xk9M4syisLj4edMZZnw=
+		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
 		UoB8X7lboluxflnu6SZl9CGMbLw=
@@ -422,15 +442,15 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Info.plist</key>
 		<data>
-		prGdeeahUqGWXrdNByWhH2BpXLw=
+		JCgjLb5uMsDjVLbYxnkM9De03VY=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		uyfc6MHdY1JsKtDLI41wjPEQLk8=
+		0HebR0wr6FhaEnffBsBwJCZ85Hg=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		/x+0HOzdKdSGH6+v/26zyrBsCfE=
+		gLszuutdwVau3ZXIav/usau+jTQ=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -446,7 +466,7 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		/x+0HOzdKdSGH6+v/26zyrBsCfE=
+		gLszuutdwVau3ZXIav/usau+jTQ=
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -470,7 +490,7 @@
 		</data>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Mz02lzAglTy4SIrJFbAkEpFNaqA=
+		XFUQaZvJ+46YtL3NeYdM3pIj1F0=
 		</data>
 		<key>xros-arm64/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
@@ -482,15 +502,15 @@
 		</data>
 		<key>xros-arm64/KochavaTracking.framework/Info.plist</key>
 		<data>
-		2knpLEuvSQgtPMcjvkr1vJe5SLY=
+		PkMD8fU8ej8pUXU557r6kaKijWk=
 		</data>
 		<key>xros-arm64/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		B91OlZvK5xw2Aa6RF35AIyrHYbg=
+		4OJL2h9b/JLOJdHExHITQ0Vnoek=
 		</data>
 		<key>xros-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros.abi.json</key>
 		<data>
-		1Qn5mq/wY9MDUCm54FAeCaMd2Hs=
+		BfUIgN1Gaa8dHUC8GAIYC0DfxXk=
 		</data>
 		<key>xros-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
 		<data>
@@ -512,6 +532,10 @@
 		<data>
 		3ZwXRUzEoN6JVpEVmT6NzHjpizM=
 		</data>
+		<key>xros-arm64/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<data>
+		zaHBmxpsi9Sg7HsBMLARCBXMCa0=
+		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<data>
 		FbflfBNIwUu3iwtNbzHtfzdEgEk=
@@ -522,15 +546,15 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Info.plist</key>
 		<data>
-		wgb1DtqtzOu9CBOowBdDXSffQVo=
+		Q5DIiYRf3DOF5KbXOUbhb6/epjo=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<data>
-		ixChTssSdvkEmR7gaMRfQy+im+0=
+		lxfDVmc2Wifuojx2LPexqJubXMc=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		1Qn5mq/wY9MDUCm54FAeCaMd2Hs=
+		BfUIgN1Gaa8dHUC8GAIYC0DfxXk=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -546,7 +570,7 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		1Qn5mq/wY9MDUCm54FAeCaMd2Hs=
+		BfUIgN1Gaa8dHUC8GAIYC0DfxXk=
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -570,7 +594,7 @@
 		</data>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Bli1qZjF47NvaHYw1yiYep4lNkU=
+		FUg8HkhIWBBcsBsjWWM1gY2p5uk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -593,21 +617,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gPphN7DydMtv2KnFq7ypQ5HK0iSUBPQhKhN7yCD0IQM=
+			0uz1FeZOTRkQ/f8xdc9UD3Pw0V0dntAnnwMcHer2bUA=
 			</data>
 		</dict>
 		<key>ios-arm64/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3qGZjbxNP5uJLNlBLxltAhrW2HYTtqlIPSMwNWKCATM=
+			0dDLQWWfeykIY5hzGJUDFVxpibZ2Sv1/ry9RxXifYHQ=
 			</data>
 		</dict>
 		<key>ios-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>ios-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -645,32 +669,39 @@
 			WQjfr8h+s9itToGbyDtFKnDl+eWtrZJci30xU4uLNTE=
 			</data>
 		</dict>
+		<key>ios-arm64/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PE7nC4ENusrleZnWNQi5L2df7w+djN5v5v0MWgEdPPY=
+			</data>
+		</dict>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bepAB74FGvULy3bilMw1wvCdMUmBwxVyCbKX3fkDhxg=
+			4gHHqxkTrKXtnIAPRubgAG0Ev2x0S37xUV3rircf1qY=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/DWARF/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/mAb0OYUE8Wt73624koWvQfbR8tLyvCAF5ZuoJcHYP4=
+			2GJEQMqxzXLV1xc2NFi+CAj/MppvTOrPgY3kYSRxlSU=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaTracking.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SiMPtrnyJH/l+IIdY7EIiVPN/seEuJ7tqtL/QpsIyYM=
+			MxjdNlIqzqsSs5rEOFV6GzJmN9VT5V0OXsNCRNAsok0=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/kchY9tWFtpti9RUyctu/ojIQGunx1Uz0OOTX/d2wg=
+			TRShH9f4mwWhmM82C8vheWcGSdTqFcEi6HXflkPlZCQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Headers</key>
@@ -711,14 +742,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GQi5qJrlm3Bu2vCuCjsMFoMV32yePWuu924uwlRFPag=
+			1rK+bt1ve1hwpROV25XD+gvLp6pj374qYdJK+mPgDDI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -746,7 +777,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -781,7 +812,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kRBPlSjxqf2MBpTWyymElSSJPTP34x3EweZ6NvU/KT0=
+			VTh6fNy6l5HfSdcnFTLWmsRuXLMndBQ/pTl7DtBpFQ0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -789,6 +820,13 @@
 			<key>hash2</key>
 			<data>
 			WQjfr8h+s9itToGbyDtFKnDl+eWtrZJci30xU4uLNTE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zucsPgYfXRE6ExJKoMkLOAvTEtocCCDynntT3SOoUsM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/KochavaTracking.framework/Versions/Current</key>
@@ -814,21 +852,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RsK9OXuA1SUb7h3GHFXzKEoKvpgHO5S7MvWzc3/wfPE=
+			tXE3nczzZmY6J8xrxqhPjoQD4F4GjHq9ZnPMjJg18s4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4MPuWMn0DSpJK0onJ1pO7XRWEKx59ZwwzMgkoND/Rhs=
+			HA9uMpUM/3GfFaNvz+iScvPd8clnYZPmvsJoS2RZ42Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -856,7 +894,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -898,49 +936,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ATXu+OjHw9xpHWb3Y2WUcksr8ac6fFkUxEBgKDUbimA=
+			+4rqZYNG/THR0RcJ2upQmr6+nbyaLjN3HZXMXnLIiJg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bepAB74FGvULy3bilMw1wvCdMUmBwxVyCbKX3fkDhxg=
+			4gHHqxkTrKXtnIAPRubgAG0Ev2x0S37xUV3rircf1qY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/DWARF/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FOKQA76lvbIbSZpFqAxT7dHzpFHz2XaqWMDfh0BlHZA=
+			7+ZnTF2+4Aojc+b+nnU8rv/rsfNGNgNM+rAbrjYp6BM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Relocations/aarch64/KochavaTracking.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I0QgUXUnfp/sMsFzwOWv1LA6GeuNm87wBX1cGwtlYjo=
+			kSn6sjDWFoCXsADx0z10bA7rTKJJjeh1+rzxB97aGrk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Relocations/x86_64/KochavaTracking.yml</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R1BSKS362ku0eyJHepDgSmn0ad8zPnPrtiD3+88liAM=
+			JJaakvZDVjq6YJNBLJsW9kNumFnWt5E8O0zSw1lneBY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Swift/aarch64/KochavaNetworking.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hb+gUunFQaYfxAZ82g6Tiee8RrmZfrl2JHiYa+v5Lc=
+			N+7s545Zdn+SToyc53Iiptz2igALR/ZaEGKh1GP1NUw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/KochavaTracking.framework.dSYM/Contents/Resources/Swift/x86_64/KochavaNetworking.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kEM8wqqTWRMU00nkWBd3zxUgrzNvcsBCQLWZW981RJ4=
+			5yI1fV0qwYfpoPecnWnIRP9WJwV0C+t0lSWwBdOxDQY=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Headers</key>
@@ -981,14 +1019,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qIr7ExtvC4FH5RczHnIoAas1w/2n3PdnQlA1+KKOJII=
+			Dt+JXEgq373gr3aI3VH+p4kwuYyKZN4aatkdyb3fHms=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAqChWYUcTXFJ/Mtkv7ihX9TBTdG47BaJvfrxn98ehw=
+			t1bX8UA2Oi+UMoAEfe+9fBE4OMWLyxYCt9iGzAudfOE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
@@ -1016,7 +1054,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAqChWYUcTXFJ/Mtkv7ihX9TBTdG47BaJvfrxn98ehw=
+			t1bX8UA2Oi+UMoAEfe+9fBE4OMWLyxYCt9iGzAudfOE=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Modules/KochavaTracking.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
@@ -1051,7 +1089,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Totd7jPNzR2Iw6nhMKuRMXDFpScXu8N1CHvb3dN3A5A=
+			gsA9b8x/7zQLV+cU5/apoUua7RasZdQDcHK+HdGLVzA=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
@@ -1059,6 +1097,13 @@
 			<key>hash2</key>
 			<data>
 			WQjfr8h+s9itToGbyDtFKnDl+eWtrZJci30xU4uLNTE=
+			</data>
+		</dict>
+		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/A/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aZLY52R9mQe98C0qB3DEVK9beMlO9YCM/7C8QDQhE9E=
 			</data>
 		</dict>
 		<key>macos-arm64_x86_64/KochavaTracking.framework/Versions/Current</key>
@@ -1084,21 +1129,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aDY9ci6nvO4I7hmifSl7nJxB3ZTHGWzphD9bVWIGDNw=
+			omZiOI1R8YJyfgA3FZlOB66JH5+u2WfWM6Xp+H8iPBU=
 			</data>
 		</dict>
 		<key>tvos-arm64/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbYI+ozTjIifFg/Gr8M8FTGizEG245AmTb249Vmw3O4=
+			gRk9XMIB6pd5M3Dt6kLo7qzZZQip77uOKGrtBBB8S3U=
 			</data>
 		</dict>
 		<key>tvos-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>tvos-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos.private.swiftinterface</key>
@@ -1136,6 +1181,13 @@
 			WQjfr8h+s9itToGbyDtFKnDl+eWtrZJci30xU4uLNTE=
 			</data>
 		</dict>
+		<key>tvos-arm64/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			44xw5H/4+0YnRYowpYAcUoFLHg/A1wHjGowIjpdxPYU=
+			</data>
+		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1154,21 +1206,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			55YOotIYe4ra+WHfQ64Q2mQ3mV4eVMHtwVxDqNgVOEY=
+			GcUhHBtsOVYcebD+bCEM626dK4+/jRzISGE+n7QP2vQ=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BtFg4uEDn1uuBnnByeY1zFJghIoB3rVfwNzWgXTAAEg=
+			ANv86X5lkqp3Bzv7Papzhv+ZVkJ6zINTl+19MRbh7sU=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
@@ -1196,7 +1248,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0M9fPxicEn+pIper91l+BQNb/rDiQiVkWAECp/9fe4=
+			TKfCxmuldwaJpL0dsIa7rcxzzJecJT01cAimReCp2XA=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
@@ -1238,7 +1290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			94hosU10YhBKUKka8Cy/KNUklMMBNu2KVR/0RddDRoQ=
+			y+e+NEdc++sTxHIyd9dK266Tac6F3zgCpM2s8BsrVh4=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
@@ -1259,21 +1311,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LNc+8m4IZtOFx0Pt2QgpjyqXXl+UDujrnRAYLXpAJrg=
+			6S4EWSHzDYIruHoXomzWaB4IeYYselEywKCyxgbZy40=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G6uyURgiSDZIvnp3/Xknrk6FSjpY+e8kRda8uyVWSAg=
+			uF4CPtB1SuIMaY+Bi4gsxpXIiAJJkPwJoD59CZBsKZ4=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V/wBMhoMBVNL+fiiPsiG9aZ/aTZKZpuSkumaDOEEcLc=
+			S9JI3dXiL1VvEyI8J5DKmV2K5sxOJKCk6f8rEwI+9VQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
@@ -1301,7 +1353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V/wBMhoMBVNL+fiiPsiG9aZ/aTZKZpuSkumaDOEEcLc=
+			S9JI3dXiL1VvEyI8J5DKmV2K5sxOJKCk6f8rEwI+9VQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_arm64_32/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
@@ -1339,6 +1391,13 @@
 			WQjfr8h+s9itToGbyDtFKnDl+eWtrZJci30xU4uLNTE=
 			</data>
 		</dict>
+		<key>watchos-arm64_arm64_32/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6rYO7+74PQU72J7Yxy543GTxZQGlKO/R+y7hfcc0v84=
+			</data>
+		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1357,21 +1416,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l8888nnDr2nFl1LAaD/JebWj3792CC2zmBuxr9hM1Fc=
+			b2ly8k0J5YYEUfBqCVBFV8CVVJuM52elIOmluyrkTeU=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZDEArNqPX44eR10No5w3iXFyu43jkIzwzlFShRgVo8=
+			ae50Rjg4tB/JjfQhyLJcTxmThCxNKkhTivDzVrGkv88=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V/wBMhoMBVNL+fiiPsiG9aZ/aTZKZpuSkumaDOEEcLc=
+			S9JI3dXiL1VvEyI8J5DKmV2K5sxOJKCk6f8rEwI+9VQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -1399,7 +1458,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V/wBMhoMBVNL+fiiPsiG9aZ/aTZKZpuSkumaDOEEcLc=
+			S9JI3dXiL1VvEyI8J5DKmV2K5sxOJKCk6f8rEwI+9VQ=
 			</data>
 		</dict>
 		<key>watchos-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -1441,7 +1500,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eMLVJ6pss+2oBF79Ax9xZWWCEkM33L6qDKaXWk0XSM=
+			Rq63UNs4azl0MTv7pBcvKjzQR0GH1P2+whLjq1xXiy8=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
@@ -1462,21 +1521,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VbPM70GeaDGufB9MOtLimkjX2KUkLsS8ML0MDvVkavc=
+			WtydNIFHvcxSZrFLVy6KSIfx+f/ya5PpME3+Hu00+g0=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cL4E1bDx118wWKfLqLcux8GPOPP5FzDkat9P1yhQ+9Y=
+			3qVse1B7OuX4t3CmgYFgOLJKwwIb6PaXO0PUuTTEPQc=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pwIxBzoduxxs25/FH1Mfwf/EY0MLHA03P0yL6KZXv0k=
+			D+XLZD+Duddc6FakZsKFE0JNgdpswANL2ZmPY++hFXY=
 			</data>
 		</dict>
 		<key>xros-arm64/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros.private.swiftinterface</key>
@@ -1514,6 +1573,13 @@
 			WQjfr8h+s9itToGbyDtFKnDl+eWtrZJci30xU4uLNTE=
 			</data>
 		</dict>
+		<key>xros-arm64/KochavaTracking.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xM3xTzfSAKUyD+ZbYtVNMt1WJ9uoP7kcFSbC6XpN3Hg=
+			</data>
+		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Headers/KochavaTracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1532,21 +1598,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vcSQcOE37+MGcjTQxFi46wp8usP1nWZ926LIKwBg2EE=
+			3PY6EdBPzizV5d/YQO/Yhqq2ofWq4RF7QC3YwUhIyJ8=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/KochavaTracking</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSmKio5VWGBFhkAegGxS8QoE0E7BuARrQSQgvmGXTMc=
+			cCB9jQbrU5m6Iv9mo/vCa2gxJEO1H5jwSkQjzC+x6Ys=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pwIxBzoduxxs25/FH1Mfwf/EY0MLHA03P0yL6KZXv0k=
+			D+XLZD+Duddc6FakZsKFE0JNgdpswANL2ZmPY++hFXY=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
@@ -1574,7 +1640,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pwIxBzoduxxs25/FH1Mfwf/EY0MLHA03P0yL6KZXv0k=
+			D+XLZD+Duddc6FakZsKFE0JNgdpswANL2ZmPY++hFXY=
 			</data>
 		</dict>
 		<key>xros-arm64_x86_64-simulator/KochavaTracking.framework/Modules/KochavaTracking.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
@@ -1616,7 +1682,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jIONUcbFojKbGkEZBT/Qew1YrMt/YreVO5QCYycLm3Q=
+			C9osg9xMx7IfjXAZbiMaUjaZyFdXsYyon5JBjCRTBzI=
 			</data>
 		</dict>
 	</dict>

@@ -1,13 +1,13 @@
 {
-  "originHash" : "b63e24fdd6e612426b834997be6f161f4a2bffe57e891afd0e9a382cbcf65f0d",
+  "originHash" : "019b1c3fc5b4a0b3f0c04540dff10375b4dbfd9304843e0d9f29dafd12c9565b",
   "pins" : [
     {
       "identity" : "apple-swiftpackage-kochavanetworking-xcframework",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Kochava/Apple-SwiftPackage-KochavaNetworking-XCFramework",
       "state" : {
-        "revision" : "28efbad74e9cc712229456ac71acb792be5418aa",
-        "version" : "10.0.1"
+        "revision" : "d99a6ddefbde3c2e22227ce99f6ee89ebc00b8f2",
+        "version" : "10.0.2"
       }
     }
   ],
